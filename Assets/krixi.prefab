@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2970185294283836808}
   - component: {fileID: 7744681665711654516}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: krixi
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
